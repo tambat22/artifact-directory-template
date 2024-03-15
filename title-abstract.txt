@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Efficient Credit Risk Modeling: Enhancing Scalability and Performance
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Our study focuses on enhancing the prediction accuracy of loan default likelihood beyond the traditional credit score model. We aim to develop an advanced machine learning model using the Freddie Mac Single Family Loan-level dataset. This model will integrate credit score with other dataset attributes to create a robust method for predicting credit loan defaults.Our approach includes optimizing runtime performance, scalability, and code maintainability. We plan to surpass the predictive accuracy of existing benchmarks while building a machine learning pipeline that employs distributed computing techniques, and Python best practices for code efficiency and readability. Key steps involve training our model using credit score and other dataset features, establishing an efficient pipeline, and exploring the dataset for potential feature engineering opportunities. By adopting various model architectures and leveraging distributed libraries and frameworks, our implementation aims to parallelize data processing and model training, enhancing overall system performance. This research is significant for its potential to provide a more accurate, efficient, and scalable solution for predicting credit loan defaults, benefiting financial institutions and borrowers alike.
